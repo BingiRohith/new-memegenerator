@@ -1,0 +1,28 @@
+html {
+
+  background-color: rgb(185, 201, 201);
+}
+
+ 
+.name {
+ 
+ text-align: center;
+}
+
+.head {
+  
+  text-align: center; 
+}
+
+.image {
+  text-align: center;
+}
+
+.click {
+  color: rgb(255, 254, 254);
+  background-color: rgb(23, 99, 143);
+}
+.click :hover {
+  color: rgb(228, 0, 0);
+  background-color: rgb(255, 157, 9);
+} 
